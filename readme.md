@@ -21,3 +21,9 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=figma" />
 </div>
+
+<h3>Learning</h3>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,adonis,postgresql" />
+</div>
