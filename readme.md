@@ -1,29 +1,21 @@
-<h1 align="left">Hey 👋</h1>
+# Hey 👋
 
-<p>Hi, I am Jérémie, a self-taught person who has been passionate about web development and programming since the age of 14 and beyond.</p>
+Passionate about development since I was 14, full-stack developer and UI/UX integrator. I am constantly looking for new challenges and opportunities to develop my skills and broaden my horizons.
 
-<h2 align="left">I code, design and deploy with...</h2>
+## I code, design and deploy with...
 
-<h3>Coding</h3>
+### Coding
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,js,css,react,php,sass,express,discordjs,nodejs,vite" />
-</div>
+![](https://skillicons.dev/icons?i=html,js,css,react,php,sass,express,discordjs,nodejs,vite)
 
-<h3>Deploying</h3>
+### Deploying
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=docker,debian,bash,mongodb" />
-</div>
+![](https://skillicons.dev/icons?i=docker,debian,bash,mongodb)
 
-<h3>Design</h3>
+### Design
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=figma" />
-</div>
+![](https://skillicons.dev/icons?i=figma)
 
-<h3>Learning</h3>
+### Learning
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,adonis,postgresql" />
-</div>
+![](https://skillicons.dev/icons?i=nextjs,adonis,postgresql)
