@@ -1,6 +1,6 @@
 # Hey 👋
 
-Passionate about development since I was 14, full-stack developer and UI/UX integrator. I am constantly looking for new challenges and opportunities to develop my skills and broaden my horizons.
+Passionate about development since I was 14, I learned on my own to begin with and turned to more professional training. I am constantly looking for new challenges and opportunities to develop my skills and broaden my horizons.
 
 ## I code, design and deploy with...
 
