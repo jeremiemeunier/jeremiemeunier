@@ -10,11 +10,11 @@ Passionate about development since I was 14, I learned on my own to begin with a
 
 ### Database
 
-![](https://skillicons.dev/icons?i=mysql,mongodb)
+![](https://skillicons.dev/icons?i=mysql,mongodb,sequelize)
 
 ### Deploying
 
-![](https://skillicons.dev/icons?i=docker,debian,bash,git,github)
+![](https://skillicons.dev/icons?i=docker,debian,bash,git,github,nginx)
 
 ### Design
 
